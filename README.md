@@ -22,7 +22,7 @@ parameters were chosen so that it generates most numbers between 0 and 1 and all
 parameters were chosen so that it generates most numbers between -1 and 1 and numbers other numbers are rejected. Adding 1, dividing by 2 and multipling by the size of the above intervals makes it fit the rest functions
 
 **-random.beta**
-in the last case, parameters were chosen randomly. This function generates numbers between 0 and 1 so multipling by the size of the above interval fixes the interval problem.
+in this case, parameters were chosen randomly. This function generates numbers between 0 and 1 so multipling by the size of the above interval fixes the interval problem.
 
 Be carefull when changing paremeters because the problem is not hardly parametrized and possibly you might not be able to see exactly the same result.
 
