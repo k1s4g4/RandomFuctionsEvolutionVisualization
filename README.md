@@ -9,7 +9,7 @@ The functions are:
 **-random.randint()**
 the interval was chosen so that the window fits in the screen and that is because window width is parametrized with the interval.
 
-**-random.uniform() **
+**-random.uniform()**
 same as random.randint()
 
 **-random.triangular()**
