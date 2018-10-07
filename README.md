@@ -1,1 +1,1 @@
-# RandomFuctionsEvolutionVisualization
+# RandomFunctionsEvolutionVisualization
