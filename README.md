@@ -4,7 +4,7 @@
 
 This program was made as a way of better understanding how random functions work. Our understanding is better when we see things instead of just imagining them.It just generates random values within an interval, calculates relative frequencies (probability) for each value and plots probability distributions for six different functions. 
 
-The functions are:
+**The functions are:**
 
 **-random.randint()**
 the interval was chosen so that the window fits in the screen and that is because window width is parametrized with the interval.
